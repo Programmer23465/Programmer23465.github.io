@@ -1,0 +1,142 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,63.8,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,5.0,0.0,2,10,10,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.47,0:00:05.72,Default,,0,0,0,,{\an2\i1}{\c&HFFFF80&}Crayon Shinchan
+Dialogue: 0,0:00:00.50,0:00:05.71,Default,,0,0,0,,{\an2\i1}{\c&H40FF00&}Subbed by X-Anime{\c&HFFFFFF&} {\c&H00FFFF&}| Telegram{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.92,0:00:10.70,Default,,0,0,0,,{\an2\i1}stay a little away from your device! - by shinnosuke
+Dialogue: 0,0:00:12.06,0:00:15.70,Default,,0,0,0,,Well I guess it's time for us to go
+Dialogue: 0,0:00:16.42,0:00:17.91,Default,,0,0,0,,It's noisy
+Dialogue: 0,0:00:18.21,0:00:20.76,Default,,0,0,0,,Be quiet before being taken to use
+Dialogue: 0,0:00:20.93,0:00:23.62,Default,,0,0,0,,I want to be used by a pretty lady
+Dialogue: 0,0:00:23.68,0:00:25.96,Default,,0,0,0,,It's impossible, because this is a kindergarten
+Dialogue: 0,0:00:26.16,0:00:28.41,Default,,0,0,0,,But that's not what we crayons are about
+Dialogue: 0,0:00:28.54,0:00:32.05,Default,,0,0,0,,The most important is to be able to used up till the end
+Dialogue: 0,0:00:33.38,0:00:36.19,Default,,0,0,0,,That's a happy crayon life
+Dialogue: 0,0:00:36.47,0:00:37.33,Default,,0,0,0,,right!
+Dialogue: 0,0:00:37.55,0:00:40.71,Default,,0,0,0,,Well, now that we're all here, shall we do what we always do?
+Dialogue: 0,0:00:43.29,0:00:43.98,Default,,0,0,0,,Red crayon!
+Dialogue: 0,0:00:44.69,0:00:45.39,Default,,0,0,0,,Blue crayon!
+Dialogue: 0,0:00:45.83,0:00:46.69,Default,,0,0,0,,Green crayon!
+Dialogue: 0,0:00:46.99,0:00:47.99,Default,,0,0,0,,Yellow crayon!
+Dialogue: 0,0:00:48.16,0:00:49.16,Default,,0,0,0,,Pink crayon!
+Dialogue: 0,0:00:49.30,0:00:50.67,Default,,0,0,0,,all 5 together
+Dialogue: 0,0:00:51.12,0:00:52.39,Default,,0,0,0,,5 color of crayons
+Dialogue: 0,0:00:53.90,0:00:55.80,Default,,0,0,0,,well, that's just as it should be
+Dialogue: 0,0:00:55.82,0:00:57.35,Default,,0,0,0,,You made me do it.
+Dialogue: 0,0:01:05.09,0:01:06.84,Default,,0,0,0,,So comfortable
+Dialogue: 0,0:01:12.41,0:01:13.75,Default,,0,0,0,,Paint more!
+Dialogue: 0,0:01:16.67,0:01:20.48,Default,,0,0,0,,I like it. Red and Pink are popular with girls.
+Dialogue: 0,0:01:20.54,0:01:21.82,Default,,0,0,0,,You have a problem with that
+Dialogue: 0,0:01:22.55,0:01:24.66,Default,,0,0,0,,Because the times are Gender free
+Dialogue: 0,0:01:24.93,0:01:27.45,Default,,0,0,0,,Boys can also like red and pink
+Dialogue: 0,0:01:27.47,0:01:28.76,Default,,0,0,0,,There's nothing wrong with that
+Dialogue: 0,0:01:29.04,0:01:31.66,Default,,0,0,0,,The color you like is your own choice
+Dialogue: 0,0:01:31.78,0:01:32.78,Default,,0,0,0,,Yeah, but...
+Dialogue: 0,0:01:38.61,0:01:40.02,Default,,0,0,0,,{\an8}That's doctor yellow
+Dialogue: 0,0:01:40.34,0:01:41.71,Default,,0,0,0,,{\an2}The boy who likes trams
+Dialogue: 0,0:01:45.65,0:01:47.36,Default,,0,0,0,,Bo, you've decreased a lot
+Dialogue: 0,0:01:47.55,0:01:49.21,Default,,0,0,0,,Completed the mission perfectly
+Dialogue: 0,0:01:49.35,0:01:52.28,Default,,0,0,0,,Kazama-kun is a self proclaimed elite crayon, but..
+Dialogue: 0,0:01:52.30,0:01:54.30,Default,,0,0,0,,It's not used very often
+Dialogue: 0,0:01:54.31,0:01:56.63,Default,,0,0,0,,Because I and Masao are natural colors
+Dialogue: 0,0:01:56.69,0:01:58.72,Default,,0,0,0,,I play an important role in landscape painting
+Dialogue: 0,0:01:58.88,0:02:00.67,Default,,0,0,0,,But the kids in this group..
+Dialogue: 0,0:02:00.69,0:02:03.27,Default,,0,0,0,,It seems he's not painting a natural landscape
+Dialogue: 0,0:02:04.26,0:02:06.58,Default,,0,0,0,,Okay, let's go to the other group
+Dialogue: 0,0:02:09.24,0:02:10.35,Default,,0,0,0,,lla lla
+Dialogue: 0,0:02:10.37,0:02:11.88,Default,,0,0,0,,Wait a minute
+Dialogue: 0,0:02:15.75,0:02:16.84,Default,,0,0,0,,ah!
+Dialogue: 0,0:02:17.77,0:02:20.51,Default,,0,0,0,,Let's go, be careful not to get stepped on
+Dialogue: 0,0:02:22.22,0:02:24.78,Default,,0,0,0,,Ola, I want to paint my swimsuit
+Dialogue: 0,0:02:24.80,0:02:25.65,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:02:30.83,0:02:32.20,Default,,0,0,0,,This way! Quickly!
+Dialogue: 0,0:02:45.44,0:02:47.23,Default,,0,0,0,,Oh, no, it fell out
+Dialogue: 0,0:02:50.14,0:02:51.50,Default,,0,0,0,,Bo-chan Thank you
+Dialogue: 0,0:02:51.97,0:02:52.98,Default,,0,0,0,,Kazama-kun
+Dialogue: 0,0:02:58.84,0:03:00.46,Default,,0,0,0,,That must be a picture of the ocean
+Dialogue: 0,0:03:00.71,0:03:02.78,Default,,0,0,0,,Alright, when it comes to the sea, it's blue
+Dialogue: 0,0:03:09.23,0:03:10.91,Default,,0,0,0,,it's coming, it's coming!
+Dialogue: 0,0:03:17.21,0:03:18.51,Default,,0,0,0,,Excellent!
+Dialogue: 0,0:03:18.67,0:03:21.09,Default,,0,0,0,,That's Mr. Cobalt blue Koval.
+Dialogue: 0,0:03:23.20,0:03:24.99,Default,,0,0,0,,If you have cobalt blue
+Dialogue: 0,0:03:25.19,0:03:28.13,Default,,0,0,0,,The kids crayon is are the 36 color type
+Dialogue: 0,0:03:28.60,0:03:31.29,Default,,0,0,0,,So many colors, iit's hard to pick just one.
+Dialogue: 0,0:03:33.44,0:03:34.63,Default,,0,0,0,,That's shinchan and others
+Dialogue: 0,0:03:35.10,0:03:38.01,Default,,0,0,0,,It's great to be taken again
+Dialogue: 0,0:03:38.28,0:03:40.00,Default,,0,0,0,,Well, let's go to that group
+Dialogue: 0,0:03:41.47,0:03:42.34,Default,,0,0,0,,Alright
+Dialogue: 0,0:03:42.64,0:03:43.64,Default,,0,0,0,,wait
+Dialogue: 0,0:03:48.03,0:03:49.03,Default,,0,0,0,,Good come on
+Dialogue: 0,0:03:49.74,0:03:50.74,Default,,0,0,0,,Oh, it's me again
+Dialogue: 0,0:03:52.42,0:03:56.51,Default,,0,0,0,,Oh, my god, she has a good taste to put pink on a bunny
+Dialogue: 0,0:03:57.50,0:03:58.64,Default,,0,0,0,,I like it
+Dialogue: 0,0:03:58.88,0:04:00.66,Default,,0,0,0,,Everyone look at Nene!
+Dialogue: 0,0:04:02.24,0:04:03.83,Default,,0,0,0,, I can't believe I got the rabbit paint at end
+Dialogue: 0,0:04:04.10,0:04:05.46,Default,,0,0,0,,I feel great
+Dialogue: 0,0:04:07.84,0:04:09.60,Default,,0,0,0,,I used up all my pink
+Dialogue: 0,0:04:10.98,0:04:12.61,Default,,0,0,0,,Nene is really lucky
+Dialogue: 0,0:04:12.74,0:04:14.92,Default,,0,0,0,,Let's get ours used up as fast as we can
+Dialogue: 0,0:04:17.14,0:04:19.96,Default,,0,0,0,,I don't see any kids drawing the sky or the ocean
+Dialogue: 0,0:04:21.37,0:04:22.89,Default,,0,0,0,,The girl in swimsuit..
+Dialogue: 0,0:04:23.17,0:04:24.17,Default,,0,0,0,,If this happens..
+Dialogue: 0,0:04:26.87,0:04:30.41,Default,,0,0,0,,Use me, Use me, Use me
+Dialogue: 0,0:04:30.51,0:04:31.76,Default,,0,0,0,,hooray, I did it
+Dialogue: 0,0:04:34.23,0:04:35.24,Default,,0,0,0,,This is good one
+Dialogue: 0,0:04:38.67,0:04:39.85,Default,,0,0,0,,Fruits..
+Dialogue: 0,0:04:39.96,0:04:43.64,Default,,0,0,0,,I have no regrets in my whole life
+Dialogue: 0,0:04:45.03,0:04:46.13,Default,,0,0,0,,Even Bo...
+Dialogue: 0,0:04:46.74,0:04:50.40,Default,,0,0,0,,What if we just stay like this forever?
+Dialogue: 0,0:04:50.80,0:04:51.98,Default,,0,0,0,,No, don't say that
+Dialogue: 0,0:04:52.00,0:04:53.28,Default,,0,0,0,,But..
+Dialogue: 0,0:04:53.48,0:04:54.95,Default,,0,0,0,,Okay okay
+Dialogue: 0,0:04:55.01,0:04:57.32,Default,,0,0,0,,Why are you so calm?
+Dialogue: 0,0:04:58.13,0:05:00.03,Default,,0,0,0,,Let's move on to the next
+Dialogue: 0,0:05:00.73,0:05:01.80,Default,,0,0,0,,Don't leave me!
+Dialogue: 0,0:05:06.67,0:05:07.44,Default,,0,0,0,,Shinnosuke..
+Dialogue: 0,0:05:09.95,0:05:13.14,Default,,0,0,0,,I'm in three
+Dialogue: 0,0:05:14.22,0:05:16.30,Default,,0,0,0,,Buriburi.. buriburi..
+Dialogue: 0,0:05:15.01,0:05:16.31,Default,,0,0,0,,{\an8}Stop it
+Dialogue: 0,0:05:16.51,0:05:17.97,Default,,0,0,0,,I was so worried...
+Dialogue: 0,0:05:22.69,0:05:23.69,Default,,0,0,0,,Found green
+Dialogue: 0,0:05:25.21,0:05:27.53,Default,,0,0,0,,It's a picture of a forest, finally
+Dialogue: 0,0:05:27.88,0:05:31.74,Default,,0,0,0,,Kazama-kun, Shinchan, Good bye
+Dialogue: 0,0:05:33.55,0:05:36.10,Default,,0,0,0,,Even Masao has been used up
+Dialogue: 0,0:05:36.25,0:05:39.53,Default,,0,0,0,,So why aren't there any picture that use me?
+Dialogue: 0,0:05:39.63,0:05:40.77,Default,,0,0,0,,You look a little pale, Mr. Kazama
+Dialogue: 0,0:05:41.12,0:05:42.51,Default,,0,0,0,,I am originally this color
+Dialogue: 0,0:05:43.67,0:05:45.20,Default,,0,0,0,,What do I do?
+Dialogue: 0,0:05:46.33,0:05:49.25,Default,,0,0,0,,I can hear them. they are calling out for me over there
+Dialogue: 0,0:05:54.71,0:05:57.20,Default,,0,0,0,,To make sure everyone obeys the signals properly
+Dialogue: 0,0:05:57.29,0:05:59.02,Default,,0,0,0,,I have to paint it nice
+Dialogue: 0,0:05:59.72,0:06:00.72,Default,,0,0,0,,Stop for red
+Dialogue: 0,0:06:01.37,0:06:04.41,Default,,0,0,0,,Oh? this crayon is broken
+Dialogue: 0,0:06:04.58,0:06:06.57,Default,,0,0,0,,Not that much
+Dialogue: 0,0:06:06.59,0:06:09.15,Default,,0,0,0,,then let's use it all up here.
+Dialogue: 0,0:06:11.04,0:06:13.01,Default,,0,0,0,,Kazama-kun, Good night
+Dialogue: 0,0:06:14.13,0:06:15.53,Default,,0,0,0,,I'll see you next time
+Dialogue: 0,0:06:16.69,0:06:18.27,Default,,0,0,0,,See you..
+Dialogue: 0,0:06:20.82,0:06:24.43,Default,,0,0,0,,I don't want to be the only one left... Guys!
+Dialogue: 0,0:06:26.60,0:06:28.11,Default,,0,0,0,,sorry to bother you
+Dialogue: 0,0:06:28.16,0:06:29.09,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:06:29.19,0:06:31.17,Default,,0,0,0,,I ran out of my crayons
+Dialogue: 0,0:06:31.31,0:06:33.55,Default,,0,0,0,,mam told me to get it from the principal
+Dialogue: 0,0:06:33.90,0:06:37.59,Default,,0,0,0,,Okay, well, you can take any color you like
+Dialogue: 0,0:06:38.52,0:06:39.60,Default,,0,0,0,,This color
+Dialogue: 0,0:06:40.51,0:06:42.19,Default,,0,0,0,,is blue enough?
+Dialogue: 0,0:06:42.42,0:06:44.48,Default,,0,0,0,,Hoi! Thank you, leader
+Dialogue: 0,0:06:45.84,0:06:47.04,Default,,0,0,0,,I am the principal
+Dialogue: 0,0:06:48.12,0:06:51.65,Default,,0,0,0,,Yo! Coloring.. coloring
+Dialogue: 0,0:06:53.80,0:06:54.80,Default,,0,0,0,,Thank you
+Dialogue: 0,0:06:56.54,0:06:57.43,Default,,0,0,0,,Finished!
